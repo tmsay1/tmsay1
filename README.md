@@ -9,7 +9,6 @@ gh   $ github.com/tmsay1
 usr  $ hryn
 dev  $ full-stack
 web  $ oryn.lol
-```
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tmsay1&color=blue&style=flat" />
