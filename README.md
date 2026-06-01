@@ -3,10 +3,9 @@
 </p>
 
 ```bash
-web  $ crownify.xyz
-bot  $ NoLimits
+gh   $ github.com/tmsay1
+usr  $ hryn
 dev  $ full-stack
-git  $ github.com/tmsay1
 ```
 
 ![](https://komarev.com/ghpvc/?username=tmsay1&color=blue)
