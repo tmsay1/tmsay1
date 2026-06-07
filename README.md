@@ -2,7 +2,6 @@
   <img src="https://i.postimg.cc/Nj6yVgk0/Watch-this-story-by-JR-C-RIME-on-Instagram-before-it-disappears.png" width="55">
   &nbsp;&nbsp;
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=00A6FF&width=280&lines=hryn.jr+%7C" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=00A6FF&width=280&lines=salihjr+%7C" />
 </p>
 
 ```bash
